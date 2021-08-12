@@ -1,0 +1,7 @@
+C:\Users\Thinkpad\Documents\SharpDevelop Projects\DateTimePicker with DateDiff Function\DateTimePicker with DateDiff Function\bin\Debug\DateTimePicker with DateDiff Function.exe
+C:\Users\Thinkpad\Documents\SharpDevelop Projects\DateTimePicker with DateDiff Function\DateTimePicker with DateDiff Function\bin\Debug\DateTimePicker with DateDiff Function.pdb
+C:\Users\Thinkpad\Documents\SharpDevelop Projects\DateTimePicker with DateDiff Function\DateTimePicker with DateDiff Function\obj\Debug\DateTimePicker with DateDiff Function.csprojResolveAssemblyReference.cache
+C:\Users\Thinkpad\Documents\SharpDevelop Projects\DateTimePicker with DateDiff Function\DateTimePicker with DateDiff Function\obj\Debug\DateTimePicker_with_DateDiff_Function.MainForm.resources
+C:\Users\Thinkpad\Documents\SharpDevelop Projects\DateTimePicker with DateDiff Function\DateTimePicker with DateDiff Function\obj\Debug\DateTimePicker with DateDiff Function.csproj.GenerateResource.Cache
+C:\Users\Thinkpad\Documents\SharpDevelop Projects\DateTimePicker with DateDiff Function\DateTimePicker with DateDiff Function\obj\Debug\DateTimePicker with DateDiff Function.exe
+C:\Users\Thinkpad\Documents\SharpDevelop Projects\DateTimePicker with DateDiff Function\DateTimePicker with DateDiff Function\obj\Debug\DateTimePicker with DateDiff Function.pdb
